@@ -1,5 +1,7 @@
 Hunger Games -- A game theory programming tournament
+
 "Write an algorithm to fight to the death against other algorithms. Cooperate and compete with other players at different points in the game to survive and win."
+
 https://brilliant.org/competitions/hunger-games/
 ============
 My algorithm (named HoneyBadger) is made to go for a win. A gameplay of it depends on a stage of the game. The first stage is when there are so many players and change in their reputations is so large that it is impossible to track specific players from round to round. The second stage is when it becomes possible.
